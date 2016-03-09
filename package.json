@@ -1,0 +1,12 @@
+{
+	"name": "sentiment_group10",
+	"version": "1.0.0",
+	"description": "Sentiment App: JavaScript Seminar: Group 10",
+	"main": "index.js",
+	"dependencies":{},
+	"devDependencies":{},
+	"scripts":{
+		"test":"echo \"Error: no test specified\" && exit 1"
+	}
+	
+}
