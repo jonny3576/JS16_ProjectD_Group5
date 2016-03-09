@@ -8,5 +8,14 @@
 	"scripts":{
 		"test":"echo \"Error: no test specified\" && exit 1"
 	}
-	
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonny3576/JS16_ProjectD_Group5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonny3576/JS16_ProjectD_Group5/issues"
+  },
+  "homepage": "https://github.com/jonny3576/JS16_ProjectD_Group5#readme"
 }
