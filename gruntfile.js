@@ -3,7 +3,6 @@ module.exports = function(grunt) {
     jshint: {
       	all: ['*.js', 'db/**/*.js','logic/**/*.js']
     }
-	}
   });
 
   grunt.loadNpmTasks('grunt-contrib-jshint');
