@@ -2,3 +2,5 @@ language: node_js
 
 node_js: 
    - "stable"
+before_ script:
+   - npm install -g grunt-cli
